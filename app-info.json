@@ -1,1 +1,6 @@
-
+{
+  "appName": "Baccarat Club: Card Game",
+  "packageName": "com.tattvabyte.baccaratclub",
+  "version": "1.0",
+  "isPublished": true
+}
